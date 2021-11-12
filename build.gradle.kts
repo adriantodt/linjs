@@ -3,7 +3,7 @@ plugins {
 }
 
 group = "com.github.adriantodt"
-version = "0.2"
+version = "0.2.2"
 
 repositories {
     mavenLocal()
